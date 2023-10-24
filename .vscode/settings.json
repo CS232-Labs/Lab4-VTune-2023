@@ -52,5 +52,6 @@
         "chrono": "cpp",
         "cstring": "cpp",
         "ratio": "cpp"
-    }
+    },
+    "python.analysis.typeCheckingMode": "off"
 }
